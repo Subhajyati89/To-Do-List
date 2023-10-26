@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Inter:wght@700&family=Roboto+Mono:ital@1&display=swap');
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background:linear-gradient(45deg,rgb(75, 32, 161),rgb(12, 226, 238));
+}
+.container{
+    border: 4px solid orange;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(90deg,black,rgb(243, 210, 239));
+    
+}
+.box{
+    margin: 20%;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background:linear-gradient(45deg,black,rgba(152, 12, 12, 0.421))
+    
+}
